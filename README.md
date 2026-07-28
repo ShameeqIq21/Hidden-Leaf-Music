@@ -1,6 +1,15 @@
 # Hidden-Leaf-Music
 The "Hidden Leaf Music" is a Naruto-themed Spotify Display, which resembles all the aspects of my favorite anime. I made this project because when I want to listen to music, I always want the vibes coming out of a box that inspired and changed the trajectory of my life.
 
+# Functionality
+It works by using the ESP32 as the middleman between the inputs - coming from the switches - and the output - the LCD screen.
+
+# Design
+This design is "Naruto-themed" with the Hidden Leaf Village and the Will of Fire symbols on the sides of the case. On top of the case is my opinion of Naruto.
+
+# Thanks and regards
+This project wouldn't happen if the stasis guides didn't exist, the amazing HackClub funding, and the Onshape interface.
+
 # Images
 <img width="1512" height="768" alt="image" src="https://github.com/user-attachments/assets/4ef5a3d6-243e-405f-8ea7-e19483a062c0" />
 <img width="797" height="607" alt="image" src="https://github.com/user-attachments/assets/3abfb580-125d-4e6b-a953-cdf9c2adf82a" />
